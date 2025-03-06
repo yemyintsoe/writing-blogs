@@ -1,0 +1,41 @@
+Laravel 12 က Beginners တွေအတွက် ပိုခက်ခဲလာလေသလား?
+
+Laravel 12 ကို February 24th, 2025 မှာ Release လုပ်ခဲ့ကြတယ်။ Major Changes တွေက ထွေထွေးထူးဘာတစ်ခုမှ ကြီးကြီးမားမား ပါလာတာ မတွေ့ရဘူး။ ဒါကြောင့် Laravel 11 လေ့လာနေတဲ့ သူတွေအတွက်က အေးဆဲပါပဲ။ Laravel 11 နဲ့ ရေးထားတဲ့ Project ကိုလည်း 12 ပြောင်းဖို့ကို လွယ်၂လေးနဲ့ Upgrade နိုင်ပါတယ်။ 
+
+Laravel 12 ကို Release တယ်ဆိုတာ Laravel ရဲ့ Code ပိုင်းပြောင်းလဲမူဆိုတာထက် Laravel ရဲ့ Eco-system အသစ်တွေကို မိတ်ဆက်ချင်တယ် လို့ပဲ ထင်ပါတယ်။ ညပမာ Laravel Cloud။
+
+ကဲ Main Topic ဖြစ်တဲ့ "Laravel 12 က Beginners တွေအတွက် ခက်ခဲလာလေသလား?" ဆိုတာကိုပဲ ပြန်ဆွေးနွေးပါမယ်။
+
+Laravel ဟာဟိုးအရင်ကတည်းကပဲ အသစ်တစ်ခါတစ်ခါ ထွက်တိုင်း User တွေမကြိုက်တာတွေ၊ ပါပါလာပါတယ်။ တကယ်တော့ အသစ်မလို့၊ အစိမ်းသက်သက် ဖြစ်နေလို့ နေမှာပါ၊ နောက်တော့လည်း ပြန်ကြိုက်ကြတာပဲ။
+
+အဲ့ဒါက ဘာလဲဆိုတော့ Starter Kit ပါ။ Laravel မှာ Starter Kit ဆိုတာ Project အများစုမှာလိုအပ်တဲ့ Login, Register, Forgot Password, Email Verification အစရှိတဲ့ Feature တွေပါဝင်တဲ့ Feature ပါပဲ။ အဲ့တာတွေပဲ လားဆိုတော့ မဟုတ်ပါဘူး၊ Tailwindcss လိုမျိုး Design Library ကိုပါတစ်ခါတည်း Setup လုပ်ပေးပါသေးတယ်။
+
+ဒါကြောင့် Dev အများစုကို Laravel Project ကို Install ကတည်းက Starter Kit ကိုပဲ Install ထားတာများပါတယ်၊ အရမ်းသက်သာတကို။ မိမိဘာသာ အဲ့လောက်စုံတဲ့ Authentication တစ်ခုရေးဖို့က တစ်ပါတ်လောက် ကြာသွားနိုင်တာမို့ပါ။
+
+🔥 Laravel-UI starter kit
+အရင် Laravel version 5.2 လောက်မှာထင်တယ် Laravel/ui ဆိုတဲ့ starter kit ဟာဆိုရင် default ပါလာတယ်။ 5.2, 5.3, 5.4, 5.5, 5.6, 5.7, 5.8, 6, 7, 8 အထိအကြာကြီးကို တောက်လျှောက် အသုံးပြုခဲ့တယ်။ Starter kit လို့တော့ မခေါ်သေးဘူး။ တော်တော်ရိုးရှင်းတယ်။ Option စုံတယ်။ Option စုံတယ်ဆိုတာ Blade၊ Vue၊ React ကြိုက်တာနဲ့ သုံးလို့ရတာကိုပြောတာပါ။ အကြာကြီး ဒါပဲ သုံးလာတော့ Dev အများစုက အရမ်းကြိုက်တယ်။ Design ကတော့ Bootstrap နဲ့ပေါ့။
+
+🔥 Breeze Starter Kit
+Laravel 8 မှာ Breeze, Jetstream တို့ ကို Default Starter Kit အအဖြစ်ပွဲ ထုတ်လိုက်တယ်။ 8, 9, 10, 11 ထိပေါ့။ သူလည်း Option စုံပါတယ်။ Laravel 8 မှာ စပါလာတော့ Dev အချို့က မကြိုက်ဘူး၊ ဘာလို့ဆိုတော့ သုံးတို့ သုံးနေကျ Laravel/ui က Official doc ကနေ ထုတ်ပစ်လိုက်တယ်။ Breeze ကလည်း Bootstrap မဟုတ်တော့ဘဲ Tailwindcss ကြီးနဲ့ Default ဖြစ်သွားတယ်။ 
+
+ဒါကြောင့် တစ်ချို့ Tailwindcss မကြိုက်တဲ့ သူတွေအတွက် ပြန်ပြီး ပြောင်းရတဲ့ အလုပ်တွေကပိုသွားတယ်။ ဒါကြောင့် Breeze ထွက်လာတဲ့ အခြေအနေတစ်ခုအကြာထိကို အပြင်ရောက်သွားပြီဖြစ်တဲ့ Laravel/ui ကိုသုံးနေဆဲရှိခဲ့ကြပါတယ်။ အခုထိတောင် သုံးကြပါသေးတယ်။
+
+နောက်ပိုင်း Tailwindcss က Bootstrap ထက်အားကောင်းလာပြန်တော့လည်း Breeze မှ Breeze ပြန်ဖြစ်သွားကြတယ်။
+
+🔥 React, Vue, Livewire Starter Kit
+ပြသာနာက စပြီပြီ။ Laravel 12 မှာ Breeze တို့ Jetstream တို့ကို Official doc ကနေဖြုတ်ပြန်တယ်။ ပြီးရင် React Starter Kit, Vue Starter Kit, Livewire Starter Kit ဆိုပြီး Starter Kit ၃ ခုကို ပွဲထုတ်လိုက်တယ်။ 
+
+ပြသာနာက ဒီကစတာပဲ။ အရင် Laravel/ui တို့ Breeze တို့လို ဘာမှ မရိုးရှင်းတော့ဘူး။ ဘာ Option မှမရှိတော့ဘူး။
+
+🐣ဘာလို့မရိုးရှင်းတာလဲ?
+- Tailwindcss တောင်မဟုတ်တော့ဘူး။ Shadcn/UI သုံးလိုက်ပါပြီ။ Shadcn က အရမ်းနာမည်ကြီးလာတဲ့ UI Library ဆိုပေးမယ့် Beginners Friendly မဖြစ်သေးဘူးလို့ထင်ရတယ်။
+- TypeScript ကြီး နဲ့ Default ပါလာတယ်။ TypeScript က Laravel Dev တိုင်းမရကြသေးပါဘူး။
+
+🐣 Option မစုံဘူးဆိုတာလာလဲ?
+- React starter kit ဆိုတာ RILT stack အတွက်
+- Vue starter kit ဆိုတာ VILT stack အတွက်
+- Livewire starter kit ဆိုတာ TALL stack အတွက်
+- Blade only နဲ့ရေးမယ့် သူတွေအတွက် ပါမလာတော့ ဘူး :) 
+React, Vue, Livewire မသုံးရင် Starter kit သုံးလို့မရသလိုတော့ ဖြစ်သွားတာပေါ့။
+
+ဒါပေမယ့် Breeze တို့ Laravel/ui တို့လည်း သုံးလို့ရနေသေးတော့ အရမ်းတော့ စိတ်မကောင်း ဖြစ်စရာမလိုပါဘူး။ ဒါပေမယ့် Latest Technologies သုံးနိုင်ရင်တော့ ပိုကောင်းတာပေါ့။ ဒါကြောင့် ဒီလို ပြသာနာတွေကို ဖြေရှင်းနိုင်အောင် Laravel Dev တစ်ယောက်အနေနဲ့ ဘာ Tech stacks တွေရထားသင့်သလဲကို "Must Know tech stacks for Laravel dev" ဆိုတဲ့ ခေါင်းစဉ်နဲ့ နောက် blog တစ်ခုမှာပဲ ဖော်ပြပေးလိုက်ပါမယ်။
